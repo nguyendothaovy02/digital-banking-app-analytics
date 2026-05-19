@@ -1,0 +1,13 @@
+metric,value
+Total Users,5000.0
+Activated Users,1725.0
+Activation Rate,0.345
+D30 Active Users,1229.0
+D30 Retention Rate,0.2458
+D60 Active Users,747.0
+D60 Retention Rate,0.1494
+Churned Users,4253.0
+Churn Rate,0.8506
+Total Transactions,10523.0
+Transaction Success Rate,0.9178941366530458
+Avg Transactions per Activated User,6.100289855072464

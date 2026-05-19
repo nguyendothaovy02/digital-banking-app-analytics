@@ -1,0 +1,7 @@
+event_name,users_reached,step_order,conversion_from_install,step_to_step_conversion
+app_install,5000,1,1.0,
+register_start,4617,2,0.9234,0.9234
+register_complete,3886,3,0.7772,0.8416720814381633
+ekyc_start,3467,4,0.6934,0.8921770458054554
+ekyc_complete,2300,5,0.46,0.6633977502163253
+account_activated,1725,6,0.345,0.75
